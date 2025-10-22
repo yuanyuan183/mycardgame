@@ -1,0 +1,17 @@
+D:\db_project\MyGame\cocos2d\external\recast\DebugUtils\DebugDraw.cpp;D:\db_project\MyGame\cocos2d\external\recast\proj.win32\Debug.win32\DebugDraw.obj
+D:\db_project\MyGame\cocos2d\external\recast\DebugUtils\DetourDebugDraw.cpp;D:\db_project\MyGame\cocos2d\external\recast\proj.win32\Debug.win32\DetourDebugDraw.obj
+D:\db_project\MyGame\cocos2d\external\recast\DetourCrowd\DetourCrowd.cpp;D:\db_project\MyGame\cocos2d\external\recast\proj.win32\Debug.win32\DetourCrowd.obj
+D:\db_project\MyGame\cocos2d\external\recast\DetourCrowd\DetourLocalBoundary.cpp;D:\db_project\MyGame\cocos2d\external\recast\proj.win32\Debug.win32\DetourLocalBoundary.obj
+D:\db_project\MyGame\cocos2d\external\recast\DetourCrowd\DetourObstacleAvoidance.cpp;D:\db_project\MyGame\cocos2d\external\recast\proj.win32\Debug.win32\DetourObstacleAvoidance.obj
+D:\db_project\MyGame\cocos2d\external\recast\DetourCrowd\DetourPathCorridor.cpp;D:\db_project\MyGame\cocos2d\external\recast\proj.win32\Debug.win32\DetourPathCorridor.obj
+D:\db_project\MyGame\cocos2d\external\recast\DetourCrowd\DetourPathQueue.cpp;D:\db_project\MyGame\cocos2d\external\recast\proj.win32\Debug.win32\DetourPathQueue.obj
+D:\db_project\MyGame\cocos2d\external\recast\DetourCrowd\DetourProximityGrid.cpp;D:\db_project\MyGame\cocos2d\external\recast\proj.win32\Debug.win32\DetourProximityGrid.obj
+D:\db_project\MyGame\cocos2d\external\recast\DetourTileCache\DetourTileCache.cpp;D:\db_project\MyGame\cocos2d\external\recast\proj.win32\Debug.win32\DetourTileCache.obj
+D:\db_project\MyGame\cocos2d\external\recast\DetourTileCache\DetourTileCacheBuilder.cpp;D:\db_project\MyGame\cocos2d\external\recast\proj.win32\Debug.win32\DetourTileCacheBuilder.obj
+D:\db_project\MyGame\cocos2d\external\recast\Detour\DetourAlloc.cpp;D:\db_project\MyGame\cocos2d\external\recast\proj.win32\Debug.win32\DetourAlloc.obj
+D:\db_project\MyGame\cocos2d\external\recast\Detour\DetourCommon.cpp;D:\db_project\MyGame\cocos2d\external\recast\proj.win32\Debug.win32\DetourCommon.obj
+D:\db_project\MyGame\cocos2d\external\recast\Detour\DetourNavMesh.cpp;D:\db_project\MyGame\cocos2d\external\recast\proj.win32\Debug.win32\DetourNavMesh.obj
+D:\db_project\MyGame\cocos2d\external\recast\Detour\DetourNavMeshBuilder.cpp;D:\db_project\MyGame\cocos2d\external\recast\proj.win32\Debug.win32\DetourNavMeshBuilder.obj
+D:\db_project\MyGame\cocos2d\external\recast\Detour\DetourNavMeshQuery.cpp;D:\db_project\MyGame\cocos2d\external\recast\proj.win32\Debug.win32\DetourNavMeshQuery.obj
+D:\db_project\MyGame\cocos2d\external\recast\Detour\DetourNode.cpp;D:\db_project\MyGame\cocos2d\external\recast\proj.win32\Debug.win32\DetourNode.obj
+D:\db_project\MyGame\cocos2d\external\recast\fastlz\fastlz.c;D:\db_project\MyGame\cocos2d\external\recast\proj.win32\Debug.win32\fastlz.obj
